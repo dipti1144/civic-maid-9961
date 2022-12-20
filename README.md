@@ -2,11 +2,11 @@
  This is an official online store for puchasing cosmetic items like creams , makeup ,tools & brushe etc.
 
 # Tech Stack
- 1-React. js
- 2-chackra ui
- 3-json server
- 4-react-router-don
- 5-asiox
+ *React. js
+ *chackra ui
+ *json server
+ *react-router-don
+ *asiox
 
 
 # Getting Started with Create React App
