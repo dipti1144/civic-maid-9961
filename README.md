@@ -1,3 +1,14 @@
+# GlamourWorld wesite 
+ This is an official online store for puchasing cosmetic items like creams , makeup ,tools & brushe etc.
+
+# Tech Stack
+ 1-React. js
+ 2-chackra ui
+ 3-json server
+ 4-react-router-don
+ 5-asiox
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
